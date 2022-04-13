@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirubelM
 - 👀 I’m interested in Web Design and Web Development
 - 🌱 I’m currently learning SEO and AWS.
-- 💞️ I’m looking to collaborate on projects in the Decentralized finance industry.
+- 💞️ I’m looking to collaborate on projects in the finance industry(preferably Decentralized Finance).
 - 📫 How to reach me: zewdukirubel7@gmail.com
 
 <!---
