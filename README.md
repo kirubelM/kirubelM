@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirubelM
-- 👀 I’m interested in Web Design and Web Development
-- 🌱 I’m currently learning AWS and Solidity.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on projects in the finance industry(preferably Decentralized Finance).
 - 📫 How to reach me: www.kirubelm.com
 
